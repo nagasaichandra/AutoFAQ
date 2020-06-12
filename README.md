@@ -21,6 +21,29 @@ python3 make_rated_md_docs.py
 
 > Note: [`pandoc`][how_md_to_pdf] can be used to generate pdfs too.
 
+<details><summary>Or even try something like this</summary>
+
+```
+pandoc -f markdown -t latex markdowns/Cancer_faq.md -o latexs/Cancer_faq.tex
+```
+
+```
+pandoc -f markdown -t latex markdowns/Cancer_faq.md  -o latexs//Cancer_faq.tex  \
+    && pandoc -f markdown -t latex markdowns/Copenhagen\ Interpretation\ of\ Quantum\ Mechanics_faq.md  -o latexs//Copenhagen\ Interpretation\ of\ Quantum\ Mechanics_faq.tex  \
+    && pandoc -f markdown -t latex markdowns/Cusanus,\ Nicolaus\ \[Nicolas\ of\ Cusa\]_faq.md  -o latexs//Cusanus,\ Nicolaus\ \[Nicolas\ of\ Cusa\]_faq.tex  \
+    && pandoc -f markdown -t latex markdowns/Evolutionary\ Epistemology_faq.md  -o latexs//Evolutionary\ Epistemology_faq.tex  \
+    && pandoc -f markdown -t latex markdowns/Infinite\ Regress\ Arguments_faq.md  -o latexs//Infinite\ Regress\ Arguments_faq.tex  \
+    && pandoc -f markdown -t latex markdowns/Jean-Baptiste\ Du\ Bos_faq.md  -o latexs//Jean-Baptiste\ Du\ Bos_faq.tex  \
+    && pandoc -f markdown -t latex markdowns/Kurt\ Gödel_faq.md  -o latexs//Kurt\ Gödel_faq.tex  \
+    && pandoc -f markdown -t latex markdowns/Logicism\ and\ Neologicism_faq.md  -o latexs//Logicism\ and\ Neologicism_faq.tex  \
+    && pandoc -f markdown -t latex markdowns/Medieval\ Theories\ of\ Causation_faq.md  -o latexs//Medieval\ Theories\ of\ Causation_faq.tex  \
+    && pandoc -f markdown -t latex markdowns/Paul\ of\ Venice_faq.md  -o latexs//Paul\ of\ Venice_faq.tex  \
+    && pandoc -f markdown -t latex markdowns/Philosophy\ of\ Biomedicine_faq.md  -o latexs//Philosophy\ of\ Biomedicine_faq.tex  \
+    && pandoc -f markdown -t latex markdowns/The\ Epistemology\ of\ Religion_faq.md  -o latexs//The\ Epistemology\ of\ Religion_faq.tex
+```
+
+</details>
+
 [filter_qs_kaggle]: https://www.kaggle.com/teja0110/filtered-questions/output
 [filtered_qs_airtable]: https://airtable.com/shro9LCLITgxhYqWO/tbl1FuamJ4Nnk1TYC/viwc92aO0cm7B1fTI
 [markdowns]: /markdowns
