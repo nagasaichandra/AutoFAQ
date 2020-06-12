@@ -1,4 +1,4 @@
-# [Philosophy of Biomedicine](https://www.plato.stanford.edu/entries/biomedicine/index.html) 
+# [Philosophy of Biomedicine](https://plato.stanford.edu/entries/biomedicine/index.html) 
 
 ## What does not duplicate in the entry on concepts of health and disease? 
 > _summarized_paragraph_ : The preceding section on purpose in biomedicine leads directly to the related issue of how health and disease are conceptualized. **This is something that will only be dealt with very briefly here, in part to avoid duplicating the content in the entry on  Concepts of Health and Disease.** Debates over the meaning of health and Disease are central to philosophy of medicine. This entry will not attempt to summarize that complex literature, and rather focus on how conceptions ofhealth and disease relate to biomedics.  

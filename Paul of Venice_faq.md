@@ -1,4 +1,4 @@
-# [Paul of Venice](https://www.plato.stanford.edu/entries/paul-venice/index.html) 
+# [Paul of Venice](https://plato.stanford.edu/entries/paul-venice/index.html) 
 
 ## What does he do with the meaning of the term'res'? 
 > _summarized_paragraph_ : Paul agrees with Gregory that what is signified by a simple expression is different from what is Signified by complex expression. **But disagrees with him about the meaning of the term ‘res’ In his view, only positive beings are things, and a complex expression is not a positive being as it is not an item in one of the ten categorial lines.** In other words, even though states of affairs are not really, but only formally, different from individual things, they cannot in any way be regarded as things in the world.  

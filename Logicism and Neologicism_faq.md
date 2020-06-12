@@ -1,4 +1,4 @@
-# [Logicism and Neologicism](https://www.plato.stanford.edu/entries/logicism/index.html) 
+# [Logicism and Neologicism](https://plato.stanford.edu/entries/logicism/index.html) 
 
 ## What is short and easy? 
 > _summarized_paragraph_ : Wright sketched a derivation of the Dedekind-Peano axioms from Hume’s Principle. The deductions would be carried out in standard second-order logic. Such a system is unfree with respect to its number-abstractive terms. **This point holds even if the second- order logic in question is a free logic in the official sense of not being committed to the theorem-scheme for any well-formed singular term t. The proof of this point is short and easy, and is like the one given in  §1.2.**  

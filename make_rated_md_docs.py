@@ -35,7 +35,7 @@ def fun(grouping):
     article_title = article_titles[0]
     url = url.replace(SYDNEY_MIRROR_HOST, PLATO_ORIGINAL_HOST)
     markdown = ""
-    markdown += f"# [{article_title}](https://www.{url}) \n\n"
+    markdown += f"# [{article_title}](https://{url}) \n\n"
     mask = [Q_COL, A_COL, S_COL, AGG_G, AGG_A, AGG_M_Y, AGG_M_N, AGG_M_M]
     for _, (q, a, s, ag, aa, amy, amn, amm) in grouping[mask].iterrows():
         for match in re.findall(fr"{s}", a, re.IGNORECASE):

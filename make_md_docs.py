@@ -29,7 +29,7 @@ def fun(grouping):
     article_title = article_titles[0]
     url = url.replace(SYDNEY_MIRROR_HOST, PLATO_ORIGINAL_HOST)
     markdown = ""
-    markdown += f"# [{article_title}](https://www.{url}) \n\n"
+    markdown += f"# [{article_title}](https://{url}) \n\n"
     for _, (q, a, s) in grouping[[Q_COL, A_COL, S_COL]].iterrows():
         for match in re.findall(fr"{s}", a, re.IGNORECASE):
             a = a.replace(match, f"**{match}**")

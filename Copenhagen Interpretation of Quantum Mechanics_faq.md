@@ -1,4 +1,4 @@
-# [Copenhagen Interpretation of Quantum Mechanics](https://www.plato.stanford.edu/entries/qm-copenhagen/index.html) 
+# [Copenhagen Interpretation of Quantum Mechanics](https://plato.stanford.edu/entries/qm-copenhagen/index.html) 
 
 ## What does physicists do from their experiments on atomic objects? 
 > _summarized_paragraph_ : The aim of Bohr’s effort is to give an empirical interpretation of the quantum formalism. He does not seek to reduce terms concerning theoretical entities to terms about sense-data or purely perceptual phenomena. **He insists only that the empirical evidence physicists collect from their experiments on atomic objects has to be described in terms of the same concepts which were developed in classical mechanics in order for them to understand what the quantum theory is all about.** There are both similarities and overlaps between some of the proposed explanations concerning the indispensability of classical concepts.  

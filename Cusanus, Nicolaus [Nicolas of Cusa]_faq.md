@@ -1,4 +1,4 @@
-# [Cusanus, Nicolaus [Nicolas of Cusa]](https://www.plato.stanford.edu/entries/cusanus/index.html) 
+# [Cusanus, Nicolaus [Nicolas of Cusa]](https://plato.stanford.edu/entries/cusanus/index.html) 
 
 ## How is the presence of god and god's identity with things not to be thought of as? 
 > _summarized_paragraph_ : Christian Neoplatonism is distinctive for its ability to hold together dialectically in thought the insight it provides about this asymmetrical, non-reciprocal connection between God and creatures. God penetrates and surpasses or exceeds each thing God creates and encompasses. Creatures are thus themselves real with the limited sort of independence they manifest, yet they are at once in God and indeed one with God without being themselves divine. **This means that the presence of God and God’s identity with things is not to be thought as the kind of reciprocity, say, that two created physical things have.**  

@@ -1,4 +1,4 @@
-# [Cancer](https://www.plato.stanford.edu/entries/cancer/index.html) 
+# [Cancer](https://plato.stanford.edu/entries/cancer/index.html) 
 
 ## What kind of hybrid do classifications of disease like cancer form? 
 > _summarized_paragraph_ : The larger concern cases like this raise is whether there is one way to privilege choice of causal basis for classifying diseases like cancer. Different choice of temporal or spatial scale, or more or less fine-grained characterization of causal processes might yield multiple, overlapping disease classifications. **It seems that classifications of disease like cancer form a kind of ‘hybrid’—they are intended to capture natural regularities and their causes, but also to be of use for a wide array of agents with different purposes.**  

@@ -1,4 +1,4 @@
-# [Infinite Regress Arguments](https://www.plato.stanford.edu/entries/infinite-regress/index.html) 
+# [Infinite Regress Arguments](https://plato.stanford.edu/entries/infinite-regress/index.html) 
 
 ## According to the defender of the a - series , how does reality change? 
 > _summarized_paragraph_ : The way things were and the way things will be seems to be part of reality in a way that, for example, Bilbo’s finding the One Ring is not. How can they both contribute to the way reality is if they are incompatible? **The defender of the A-series replies that in giving the complete account of how reality is we have to take seriously the fact that reality changes and that it is, therefore, different ways successively, and there is no inconsistency in things being one way and then another.**  

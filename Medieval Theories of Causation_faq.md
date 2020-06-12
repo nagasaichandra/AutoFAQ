@@ -1,4 +1,4 @@
-# [Medieval Theories of Causation](https://www.plato.stanford.edu/entries/causation-medieval/index.html) 
+# [Medieval Theories of Causation](https://plato.stanford.edu/entries/causation-medieval/index.html) 
 
 ## What is a state of the soul? 
 > _summarized_paragraph_ : An example of motion in the wider sense is an act of the will. It is a change of state of some entity (namely the mind or soul), but would not have been thought of as local motion by most medieval thinkers. Thought and will were generally regarded as immaterial processes.   An example  is an action of the mind, such as changing the state of a person's mind. This would be seen as a change in state of the person's soul or mind.  

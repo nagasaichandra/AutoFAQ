@@ -1,4 +1,4 @@
-# [The Epistemology of Religion](https://www.plato.stanford.edu/entries/religion-epistemology/index.html) 
+# [The Epistemology of Religion](https://plato.stanford.edu/entries/religion-epistemology/index.html) 
 
 ## According to evidentialism , what is at best probable for a god? 
 > _summarized_paragraph_ : **According to evidentialism it follows that if the arguments for there being a God, including any arguments from religious experience, are at best probable ones, and if, as most hold, God’s existence is not self-evident then no one would be justified in having full belief that there is a God.** And the same holds for other religious beliefs. It would not be justified to believe even partially (i.e., with less than full confidence) if there is not a balance of evidence for belief.  

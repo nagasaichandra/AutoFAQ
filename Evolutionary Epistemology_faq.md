@@ -1,4 +1,4 @@
-# [Evolutionary Epistemology](https://www.plato.stanford.edu/entries/epistemology-evolutionary/index.html) 
+# [Evolutionary Epistemology](https://plato.stanford.edu/entries/epistemology-evolutionary/index.html) 
 
 ## What does an evolutionary approach contribute to the resolution of traditional problems? 
 > _summarized_paragraph_ : There are three possible configurations of the relationship between descriptive and traditional epistemologies. Descriptive epistemologies can be construed as competitors to traditional normative epistemology. On this view, both are trying to address the same concerns and offering competing solutions. **The extent to which an evolutionary approach contributes to the resolution of traditional  problems is a function of which approach one adopts.** The evolutionary analyses serve to rule out normative approaches which are either implausible or inconsistent with an evolutionary origin of human understanding.  

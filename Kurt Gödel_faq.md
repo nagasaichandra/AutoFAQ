@@ -1,4 +1,4 @@
-# [Kurt Gödel](https://www.plato.stanford.edu/entries/goedel/index.html) 
+# [Kurt Gödel](https://plato.stanford.edu/entries/goedel/index.html) 
 
 ## Who wrote the 1947 book " what is cantor's continuum problem? " 
 > _summarized_paragraph_ : In his 1947 “What is Cantor's Continuum Problem?”, Gödel expounds the view that in the case of meaningful propositions of mathematics, there is always a fact of the matter to be decided in a yes or no fashion. If there exists a domain of mathematical objects or concepts, then any meaningful proposition concerning them must be either true or  false. The Continuum Hypothesis is Gödel's example of a meaningful question. The concept “how many” leads “unambiguously” to a definite meaning of the hypothesis.  

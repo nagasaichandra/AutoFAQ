@@ -1,4 +1,4 @@
-# [Jean-Baptiste Du Bos](https://www.plato.stanford.edu/entries/du-bos/index.html) 
+# [Jean-Baptiste Du Bos](https://plato.stanford.edu/entries/du-bos/index.html) 
 
 ## Who thought that art was valuable for its own sake? 
 > _summarized_paragraph_ : Some writers believe that artworks can be valuable as a source of knowledge. At times Du Bos indicates that there is something to this, and that art is valuable as more than the source of valuable sentiments. **In the end, however, his considered opinion is that, “We can acquire some knowledge by reading a poem, but this is scarcely the motive for opening the book”  Du Bos was aware that some writers, including himself, believed that art was valuable for its own sake.**  
