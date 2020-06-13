@@ -2,6 +2,14 @@
 
 To generate frequently asked questions from sizable text
 
+## All data used for [the paper][the-paper] are here:
+
+```
+https://www.kaggle.com/dataset/4042b656772a95f85e63ebc7438d8e91c86228aa76c9e64c536be7a39ee3fa54
+```
+
+short link: bit.ly/platodata
+
 ## File Descriptions
 
 - `filtered.csv` -- the output of [this kaggle][filter_qs_kaggle]. Top 25 after heuristics.
@@ -49,3 +57,4 @@ pandoc -f markdown -t latex markdowns/Cancer_faq.md  -o latexs//Cancer_faq.tex  
 [markdowns]: /markdowns
 [pdfs]: /pdfs
 [how_md_to_pdf]: https://gist.github.com/justincbagley/ec0a6334cc86e854715e459349ab1446
+[the-paper]: /CSC_582__Auto_FAQ.pdf
