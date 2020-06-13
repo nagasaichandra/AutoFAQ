@@ -3,8 +3,11 @@
 
 import pandas as pd
 import re
+import os
 
-CSV_FILE = "filtered_and_rated_questions.csv"  # "filtered.csv"
+
+DATA_DIR = "data"
+CSV_FILE = os.path.join(DATA_DIR, "filtered_and_rated_questions.csv")  # "filtered.csv"
 Q_COL = "question"
 A_COL = "summarized_paragraph"
 S_COL = "sentence"
