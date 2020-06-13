@@ -8,7 +8,7 @@ To generate frequently asked questions from sizable text
 https://www.kaggle.com/dataset/4042b656772a95f85e63ebc7438d8e91c86228aa76c9e64c536be7a39ee3fa54
 ```
 
-short link: bit.ly/platodata
+short link: [bit.ly/platodata](bit.ly/platodata)
 
 ## File Descriptions
 
